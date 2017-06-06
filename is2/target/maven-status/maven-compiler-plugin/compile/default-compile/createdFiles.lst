@@ -1,0 +1,5 @@
+com\mycompany\is2\Usuarios.class
+com\mycompany\is2\service\AbstractFacade.class
+com\mycompany\is2\Usuarios_.class
+com\mycompany\is2\service\ApplicationConfig.class
+com\mycompany\is2\service\UsuariosFacadeREST.class
